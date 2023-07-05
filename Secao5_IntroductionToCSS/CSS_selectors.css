@@ -1,0 +1,24 @@
+/* Element Selector */
+h1 {
+  color: blue;
+}
+
+/* Class Selector */
+/* In this case the class is 'red-heading' */
+
+.red-heading {
+  color: red;
+}
+
+/* Id Selector */
+/* In this case the element id is 'crazy-id' */
+
+#crazy-id {
+  color: blue;
+}
+
+/* Atribute Selector */
+
+p[draggable="true"] {
+  color: purple
+}
